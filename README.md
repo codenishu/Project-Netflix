@@ -1,2 +1,2 @@
 # Netflix Clone
- It is a clone of official site of Netflix.com
+It is a clone of official web site of Netflix
